@@ -66,3 +66,7 @@
 <p align="center">
   <i>"Turning data into insights, and ideas into code" (๑˃̵ᴗ˂̵)ﻭ</i>
 </p>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/oyWMdtHHVsIAAAAC/ren-dears.gif" width="200" alt="ren!"/>
+</p>
