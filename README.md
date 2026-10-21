@@ -68,5 +68,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/oyWMdtHHVsIAAAAC/ren-dears.gif" width="200" alt="ren!"/>
+  <img src="ren!.gif" width="200" alt="ren!"/>
 </p>
